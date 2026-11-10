@@ -1,98 +1,79 @@
-<h1 align="center">Hi, I'm Dev Khunger 👋</h1>
+# Dev Khunger
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+BIT+Mesra;Backend+%2B+AI+Engineer-in-the-making;Top+15+%40+OKCredit+Future+Founders+2026;Open+to+SDE+%2F+AI-ML+Internships" alt="Typing intro" />
-  </a>
-</p>
+Computer Science undergraduate at BIT Mesra (CGPA 8.46/10). I build backend systems and AI-powered products, from performance-critical C++ services to full-stack applications deployed for real users.
 
-<p align="center">
-  <a href="mailto:devkhunger987@gmail.com"><img src="https://img.shields.io/badge/Email-devkhunger987%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
+Seeking SDE and AI/ML internships (remote or on-site), starting `[month/year]`.
+
+[Email](mailto:devkhunger987@gmail.com) · [LinkedIn](YOUR_LINKEDIN_URL) · [LeetCode](YOUR_LEETCODE_URL) · [Codeforces](YOUR_CODEFORCES_URL)
 
 ---
 
-## 🧑‍💻 About Me
+## Highlights
 
-I'm a Computer Science undergrad at **BIT Mesra** (CGPA 8.46) who likes building products end to end: from a low-level C++ engine to a deployed AI app with real users.
-
-- 🚀 **Top 15 team** at **OKCredit Future Founders 2026**, with a **Summer 2027 internship offer** and a Letter of Recommendation
-- ⚡ Built a C++17 spatial engine with **~600 µs** average query latency
-- 👥 Shipped an AI interview platform used by **500+ users**
-- 🧠 **750+ DSA problems** solved · Codeforces **Specialist** · LeetCode **1800+** rating
-- 🏅 **AIR 8** in the All India Talent Search Examination (SIMS), 2023–24
-- 📫 **Open to:** SDE and AI/ML internships (remote or on-site), starting `[month/year]`
+- Top 15 team at OKCredit Future Founders 2026; received a Summer 2027 internship offer and a Letter of Recommendation.
+- Built a C++17 spatial dispatch engine with an average query latency of about 600 µs.
+- Deployed an AI interview platform serving 500+ users.
+- Solved 750+ DSA problems; Codeforces Specialist; LeetCode contest rating 1800+.
+- All India Rank 8, All India Talent Search Examination (SIMS), 2023–24.
 
 ---
 
-## 🛠️ Featured Projects
+## Selected Projects
 
-### 📍 [GeoDispatch: Dynamic KD-Tree Spatial Engine](https://github.com/Devkhunger/Dynamic-Kd--Trees)
-Real-time nearest-neighbour dispatch engine. Combines a dynamic KD-Tree with AVL-style rebuilding and Dijkstra's algorithm, behind a Node.js API gateway with rate limiting and caching.
-**Result:** ~600 µs average query latency.
-`C++17` `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
+### [GeoDispatch: Dynamic KD-Tree Spatial Engine](https://github.com/Devkhunger/Dynamic-Kd--Trees)
+Real-time nearest-neighbour dispatch engine using a dynamic KD-Tree with AVL-style rebuilding and Dijkstra's algorithm. Served through a Node.js API gateway with rate limiting and caching; containerised with Docker Compose.
 
-### 🎤 [Mentora AI: AI Mock Interview Platform](https://github.com/Devkhunger/mentora_ai) · [Live Demo](YOUR_MENTORA_LIVE_URL)
-Full-stack platform that generates interview questions, analyses resumes and gives personalised feedback using the Gemini API. Includes Firebase OAuth, JWT auth, analytics dashboards and Razorpay subscriptions.
-**Result:** deployed for **500+ users**.
-`React` `FastAPI` `MongoDB` `Gemini API` `Firebase` `Razorpay`
+- **Result:** ~600 µs average query latency
+- **Stack:** C++17, Node.js, React, PostgreSQL/PostGIS, Redis, Docker
 
-### 🛒 [AI Seller Copilot](https://github.com/Devkhunger/seller-copilot) · [Live Demo](YOUR_SELLER_COPILOT_LIVE_URL)
-Built during OKCredit's Future Founders program. An e-commerce analytics platform that ingests Meesho, Flipkart and Amazon CSV formats (5,000+ orders), scores SKUs, flags RTO risk, forecasts demand for 14 days and raises inventory alerts.
-`React` `FastAPI` `Pandas` `SQLite`
+### [Mentora AI: AI Mock Interview Platform](https://github.com/Devkhunger/mentora_ai) · [Live](YOUR_MENTORA_LIVE_URL)
+Full-stack platform that generates interview questions, analyses resumes and provides personalised feedback using the Gemini API. Includes Firebase OAuth, JWT authentication, analytics dashboards and Razorpay subscriptions.
 
-### 📚 [Personalised Learning Resource Recommender](YOUR_RECOMMENDER_REPO_URL)
-Hybrid recommender combining TF-IDF, cosine similarity, collaborative filtering and knowledge-based ranking, with cold-start handling. Evaluated with Precision@5, Recall@5 and Hit Rate@5.
-`Python` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
+- **Result:** deployed for 500+ users
+- **Stack:** React, FastAPI, MongoDB, Gemini API, Firebase, Razorpay
 
----
+### [AI Seller Copilot](https://github.com/Devkhunger/seller-copilot) · [Live](YOUR_SELLER_COPILOT_LIVE_URL)
+E-commerce analytics platform built during OKCredit's Future Founders program. Normalises Meesho, Flipkart and Amazon order data (5,000+ records), scores SKUs, analyses RTO risk, produces 14-day demand forecasts and raises inventory alerts.
 
-## 💼 Experience
+- **Stack:** React, FastAPI, Pandas, SQLite
 
-| Role | Where | When |
-|---|---|---|
-| **Future Founders Intern** (Top 15 teams) | OKCredit | 2026 |
-| **Incoming Intern** (offer + LoR secured) | OKCredit | Summer 2027 |
+### [Personalised Learning Resource Recommender](YOUR_RECOMMENDER_REPO_URL)
+Hybrid recommendation system combining TF-IDF, cosine similarity, collaborative filtering and knowledge-based ranking, with cold-start handling. Evaluated using Precision@5, Recall@5 and Hit Rate@5.
+
+- **Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit
 
 ---
 
-## 🧰 Tech Stack
+## Experience
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,fastapi,postgres,mongodb,redis,sqlite,docker,git,linux,firebase&perline=8" />
-</p>
+**Future Founders Intern**, OKCredit (2026)
+Built and deployed an analytics product for online sellers; selected among the Top 15 teams.
 
-**Core CS:** DSA · OOP · DBMS · Operating Systems · Computer Networks
-**AI/ML:** Machine Learning · EDA · Pandas · NumPy · Scikit-learn · LLM APIs (Gemini)
+**Software Intern (incoming)**, OKCredit (Summer 2027)
 
 ---
 
-## 📊 GitHub at a Glance
+## Technical Skills
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkhunger&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top 15 teams, **OKCredit Future Founders 2026**
-- 🥇 **All India Rank 8**, All India Talent Search Examination (SIMS), 2023–24
-- 🎖️ Merit Certificate, Indian Olympiad Qualifier in Mathematics (IOQM), 2023
-- 💻 Codeforces **Specialist** · LeetCode **1800+** · **750+** DSA problems
+| Area | Technologies |
+|---|---|
+| Languages | C, C++, Python, SQL, JavaScript |
+| Backend | FastAPI, Node.js, REST APIs, JWT/OAuth |
+| Frontend | React |
+| Data / ML | Pandas, NumPy, Scikit-learn, EDA |
+| Databases | PostgreSQL, MongoDB, SQLite, Redis |
+| Tools | Git, Docker, Linux, Firebase, Render |
+| Core CS | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
 ---
 
-## 🤝 Let's Connect
+## Education
 
-I'm looking for an internship where I can ship real features quickly and learn from a strong team. If you're hiring, or just want to talk about backend, AI or competitive programming, feel free to reach out.
+**Birla Institute of Technology, Mesra**: B.Tech in Computer Science and Engineering, 2024 – present (CGPA 8.46/10)
 
-📧 **devkhunger987@gmail.com** · 📞 +91 82951 19277
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devkhunger&label=Profile+views&color=2F81F7&style=flat" />
-</p>
+## Contact
+
+Open to discussing internships, backend engineering and applied AI.
+Email: devkhunger987@gmail.com
