@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:2f81f7&text=Dev%20Khunger&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%C2%B7%20CS%20%40%20BIT%20Mesra&descSize=18&descAlignY=60" width="100%" alt="header" />
+<div align="center">
+  <h1>Hi, I'm Dev Khunger 👋</h1>
+  <p><b>Backend & AI Engineer · CS @ BIT Mesra</b></p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+fast+backends+and+AI+products;C%2B%2B+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+React;Top+15+%40+OKCredit+Future+Founders+2026;Open+to+SDE+%2F+AI-ML+internships" alt="intro" />
@@ -24,22 +27,16 @@ CS undergrad at **BIT Mesra** (CGPA 8.46) who loves shipping things that work en
 | 👥 | AI interview platform deployed for **500+ users** |
 | 🧠 | **750+** DSA problems · Codeforces **Specialist** · LeetCode **1800+** |
 | 🏅 | **AIR 8**, All India Talent Search Examination (SIMS) 2023–24 |
-| 📫 | **Open to** SDE and AI/ML internships (remote or on-site), starting `[month/year]` |
+| 📫 | **Open to** SDE and AI/ML internships (remote or on-site) |
 
 ---
 
 ### 🛠️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Devkhunger/Dynamic-Kd--Trees">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devkhunger&repo=Dynamic-Kd--Trees&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Devkhunger/mentora_ai">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devkhunger&repo=mentora_ai&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Devkhunger/seller-copilot">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Devkhunger&repo=seller-copilot&theme=github_dark&hide_border=true" />
-  </a>
+  <a href="https://github.com/Devkhunger/Dynamic-Kd--Trees"><img src="https://img.shields.io/badge/GeoDispatch-C%2B%2B%20Spatial%20Engine-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Devkhunger/mentora_ai"><img src="https://img.shields.io/badge/Mentora%20AI-Mock%20Interview-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Devkhunger/seller-copilot"><img src="https://img.shields.io/badge/Seller%20Copilot-E--Commerce%20Analytics-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <details open>
@@ -126,5 +123,3 @@ Hybrid recommender combining TF-IDF, cosine similarity, collaborative filtering 
 Looking for an internship where I can ship real features fast and learn from a strong team. Happy to talk backend, applied AI or competitive programming.
 
 📧 **devkhunger987@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2f81f7,100:0d1117&section=footer" width="100%" alt="footer" />
