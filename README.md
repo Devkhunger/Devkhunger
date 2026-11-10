@@ -48,7 +48,7 @@ CS undergrad at **BIT Mesra** (CGPA 8.46) who loves shipping things that work en
 
 Real-time nearest-neighbour dispatch using a dynamic KD-Tree with AVL-style rebuilding and Dijkstra's algorithm. Served through a Node.js API gateway with rate limiting and caching, containerised with Docker Compose.
 
-**Result:** ~600 µs average query latency
+**Result:** ~600 µs average query latency  
 **Stack:** `C++17` `Node.js` `React` `PostgreSQL/PostGIS` `Redis` `Docker`
 </details>
 
@@ -58,7 +58,7 @@ Real-time nearest-neighbour dispatch using a dynamic KD-Tree with AVL-style rebu
 
 Generates interview questions, analyses resumes and gives personalised feedback with the Gemini API. Includes Firebase OAuth, JWT auth, analytics dashboards and Razorpay subscriptions.
 
-**Result:** deployed for 500+ users
+**Result:** deployed for 500+ users  
 **Stack:** `React` `FastAPI` `MongoDB` `Gemini API` `Firebase` `Razorpay`
 </details>
 
