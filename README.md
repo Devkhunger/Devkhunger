@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="mailto:devkhunger987@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2f81f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devkhunger/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Devkhunger/"><img src="https://img.shields.io/badge/LeetCode-1800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/dev_cp"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Generates interview questions, analyses resumes and gives personalised feedback 
 </details>
 
 <details open>
-<summary><b>🛒 AI Seller Copilot</b> · <a href="YOUR_SELLER_COPILOT_LIVE_URL">Live demo</a></summary>
+<summary><b>🛒 AI Seller Copilot</b> · <a href="https://seller-copilot-4.onrender.com">Live demo</a></summary>
 <br>
 
 Built at OKCredit's Future Founders program. Normalises Meesho, Flipkart and Amazon order data (5,000+ records), scores SKUs, analyses RTO risk, forecasts demand for 14 days and raises inventory alerts.
