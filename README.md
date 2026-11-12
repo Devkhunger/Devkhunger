@@ -3,6 +3,7 @@
   <p><b>Backend & AI Engineer · CS @ BIT Mesra</b></p>
 </div>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=I+build+fast+backends+and+AI+products;C%2B%2B+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+React;Top+15+%40+OKCredit+Future+Founders+2026;Open+to+SDE+%2F+AI-ML+internships" alt="intro" />
 </p>
